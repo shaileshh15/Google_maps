@@ -151,10 +151,7 @@ flutter test
 - No debug prints or unnecessary comments
 - Proper error handling and user feedback
 
-## Support
 
-For support and questions, please contact:
-- Email: hr@reuseall.in
 
 ## Requirements Compliance
 
